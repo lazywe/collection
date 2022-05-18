@@ -1,4 +1,4 @@
-module github.com/chenhg5/collection
+module github.com/lazywe/collection
 
 go 1.12
 
